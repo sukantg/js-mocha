@@ -1,1 +1,1 @@
-# js-mocha
+Javascript + Mocha Test Framework
