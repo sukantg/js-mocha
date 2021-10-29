@@ -1,0 +1,22 @@
+{
+  "name": "js-mocha",
+  "version": "1.0.0",
+  "description": "Javascript + Mocha framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sukantg/js-mocha.git"
+  },
+  "author": "Sukant",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sukantg/js-mocha/issues"
+  },
+  "homepage": "https://github.com/sukantg/js-mocha#readme",
+  "dependencies": {
+    "mocha": "^9.1.3"
+  }
+}
